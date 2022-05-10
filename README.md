@@ -12,4 +12,10 @@
   * ORDER BY [] DESC|ASC
   * GROUP BY [] HAVING []
 
+## INSERT
+
+## UPDATE
+
+## DELETE
+
 # DDL
