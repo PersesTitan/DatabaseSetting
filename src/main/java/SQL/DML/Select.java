@@ -4,7 +4,7 @@ import SQL.Setting;
 import jakarta.validation.constraints.NotBlank;
 import lombok.NonNull;
 
-public class SelectClass extends Setting {
+public class Select extends Setting {
 
     /**
      * @param table 테이블 이름
